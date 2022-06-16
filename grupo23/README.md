@@ -21,3 +21,5 @@
 
 
   
+  ## Ejecucion
+    !Ejecuta el archivo figurace.py desde consola
